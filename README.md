@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  💫 *"Building logic, solving problems, and turning ideas into reality!"* 💫
+  💫 "Building logic, solving problems, and turning ideas into reality!" 💫
 </p>
