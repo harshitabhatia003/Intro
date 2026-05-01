@@ -29,7 +29,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
@@ -44,14 +44,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </p>
-
----
-
-### 📌 Featured Projects
-- 🔹 **KYC Verification System** — OCR + Face Matching + Risk Scoring + Offer Engine  
-- 🔹 **MERN Parenting Support Platform** — Community + Authentication + Payment Integration  
-- 🔹 **Weather App (Python Tkinter)** — API-based UI project  
-- 🔹 **Tic Tac Toe Game** — Logic-based Python project  
 
 ---
 
