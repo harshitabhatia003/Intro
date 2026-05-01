@@ -1,46 +1,68 @@
-<!-- Add your custom background/banner image here -->
+<!-- Banner -->
 <p align="center">
   <img src="https://images.hdqwalls.com/download/lofi-vibes-4k-h4-1920x1200.jpg" alt="Harshita Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Harshita</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
-
-- 🌱 I’m currently learning **MERN, Competitive Programming, AI/ML**
-- 💬 Ask me about **Python, Django, Node.js, React, and Databases**
-- 📫 Reach me at **harshitabhatia003@gmail.com**
-- ⚡ Fun fact — **I’m a cat mom 🐾**
+<h1 align="center">Hi 👋, I'm Harshita Bhatia</h1>
+<h3 align="center">🚀 Backend Developer | MERN Stack | AI/ML Enthusiast</h3>
 
 ---
 
-### 🌐 Connect with me  
+### 👩‍💻 About Me
+- 🌱 Currently learning **MERN Stack, Competitive Programming, and AI/ML**
+- 🛠️ Building **full-stack projects with real-world applications**
+- 💬 Ask me about **Python, Django, Node.js, React, DBMS**
+- 🎯 Goal: To become a **strong backend engineer with AI integration skills**
+- ⚡ Fun fact: **Cat mom 🐾 + Tech lover 💻**
+
+---
+
+### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/harshita-bhatia03" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita-bhatia03" height="30" width="40" />
+  <a href="https://linkedin.com/in/harshita-bhatia03" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
+</p>
+
+📫 Email: **harshitabhatia003@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+### 📌 Featured Projects
+- 🔹 **KYC Verification System** — OCR + Face Matching + Risk Scoring + Offer Engine  
+- 🔹 **MERN Parenting Support Platform** — Community + Authentication + Payment Integration  
+- 🔹 **Weather App (Python Tkinter)** — API-based UI project  
+- 🔹 **Tic Tac Toe Game** — Logic-based Python project  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  💫 "Building logic, solving problems, and turning ideas into reality!" 💫
+  💫 <b>"Building scalable systems, solving real-world problems, and growing every day!"</b> 💫
 </p>
