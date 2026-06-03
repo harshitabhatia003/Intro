@@ -101,7 +101,7 @@ Backend Developer • Python Developer • MERN Stack Enthusiast • AI/ML Explo
 
 ## 🏆 Achievements
 
-🏅 Finalist – Hackanova 2.0 National Hackathon
+🏅 Finalist – JPMC CFG Hackathon 2025
 
 🏅 Top 20 – Smart India Hackathon Internal Round
 
