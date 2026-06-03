@@ -84,20 +84,6 @@ Backend Developer • Python Developer • MERN Stack Enthusiast • AI/ML Explo
 - Integrated Hugging Face, spaCy, and Retrieval-Augmented Generation
 - Improved contextual search and knowledge retrieval
 
----
-
-## 📈 Core Competencies
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Software Development
-- RESTful APIs
-- Backend Architecture
-- Machine Learning Fundamentals
-- Problem Solving
-
----
 
 ## 🏆 Achievements
 
