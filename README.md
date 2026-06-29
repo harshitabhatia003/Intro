@@ -65,35 +65,6 @@ Backend Developer • Python Developer • MERN Stack Enthusiast • AI/ML Explo
   <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vscode,figma" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### ✈️ TravelQue – Resilient Travel Orchestration Platform
-- Built a centralized travel platform using FastAPI and React Native
-- Integrated Amadeus and Duffel APIs for itinerary management
-- Implemented secure authentication and role-based access control
-
-### 🌍 AeroGuard – AI-Based Air Quality Forecasting System
-- Developed AQI prediction models using LSTM networks
-- Generated health-aware recommendations based on forecasted air quality
-- Built interactive dashboards for environmental monitoring
-
-### 🏥 Clinical NLP & RAG System
-- Developed an AI-powered healthcare information retrieval platform
-- Integrated Hugging Face, spaCy, and Retrieval-Augmented Generation
-- Improved contextual search and knowledge retrieval
-
-
-## 🏆 Achievements
-
-🏅 Finalist – JPMC CFG Hackathon 2025
-
-🏅 Top 20 – Smart India Hackathon Internal Round
-
-🏅 Active Contributor to Open Source & Technical Communities
-
----
 
 ## 🌐 Connect With Me
 
